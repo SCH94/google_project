@@ -1,3 +1,3 @@
 # google_project
 +> google-homepage
-+> Just for practicing git
++> This Repo Is Just For Practicing Git
